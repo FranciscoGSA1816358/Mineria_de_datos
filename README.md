@@ -8,4 +8,4 @@
 
 [Ejercicios1_1_003](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Ejercicios1_1_003.pdf.pdf)
 
-[Resumenes Tecnicas de mineria de datos 1816358)(https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Resumenes_Descriptivas-Predictivas_1816358.pdf)
+[Resumenes Tecnicas de mineria de datos 1816358] (https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Resumenes_Descriptivas-Predictivas_1816358.pdf)
