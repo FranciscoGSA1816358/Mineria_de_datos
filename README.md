@@ -9,3 +9,5 @@
 [Ejercicios1_1_003](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Ejercicios1_1_003.pdf.pdf)
 
 [Los 8 Resumenes1 1816358](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Resumenes_Descriptivas-Predictivas_1816358.pdf)
+
+[Mapa Mental 2-1816358](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/MapaMental_2_1816358.pdf.pdf)
