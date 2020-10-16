@@ -13,5 +13,3 @@
 [Mapa Mental 2-1816358](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/MapaMental_2_1816358.pdf.pdf)
 
 #  Etapa_2
-
-[Base de datos1](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Basededatos1_1816358.pdf)
