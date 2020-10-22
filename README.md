@@ -15,3 +15,5 @@
 #  Etapa_2
 
 [Analisis BD 1816358](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AnalisisBD_1816358.pdf.pdf)
+
+[PythonBasico 1816358](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/PythonBasico_1816358.ipynb)
