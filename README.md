@@ -25,3 +25,6 @@
 [NOTAS CORRECCIONES](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/NOTAS%20Correciones.pdf)
 
 # Etapa_3
+[2do_Avance del PIA](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AvancePIA_II_003_2.ipynb)
+
+Nota: Si no se ven las gráficas de Estados Unidos abrir esta carpeta .zip
