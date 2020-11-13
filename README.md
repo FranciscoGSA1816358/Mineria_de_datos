@@ -23,3 +23,5 @@
 [Ejercicios Python Minería de Datos_2_003.ipynb](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/Ejercicios%20Python%20Miner%C3%ADa%20de%20Datos_2_003.ipynb)
 
 [NOTAS CORRECCIONES](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/NOTAS%20Correciones.pdf)
+
+# Etapa 3
