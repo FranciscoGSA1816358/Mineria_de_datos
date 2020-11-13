@@ -24,4 +24,4 @@
 
 [NOTAS CORRECCIONES](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/NOTAS%20Correciones.pdf)
 
-# Etapa 3
+# Etapa_3
