@@ -30,3 +30,5 @@
 Nota: Si no se ven las gráficas de Estados Unidos abrir esta carpeta .zip y descargarlo
 
 [Carpeta 2do Avance del PIA](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/AvancePIA_II_003_2_CC.zip)
+
+[PIA Detención de Tiroteos Masivos en EUA](https://github.com/FranciscoGSA1816358/Mineria_de_datos/blob/master/PIA_2_003%20.pdf)
